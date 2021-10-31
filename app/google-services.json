@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "854198656754",
+    "project_id": "fir-notificationtest-fd4de",
+    "storage_bucket": "fir-notificationtest-fd4de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854198656754:android:e041707159e74927657a6b",
+        "android_client_info": {
+          "package_name": "com.crazylab.firebasenotificationtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854198656754-i70cmqsa7sp6bj0nbro99hvlbc1jh5pa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG55XxPAyT4v3prnVu8LiiJxZ4_nX5u_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854198656754-i70cmqsa7sp6bj0nbro99hvlbc1jh5pa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
